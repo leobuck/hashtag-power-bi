@@ -1,0 +1,4 @@
+power query: manipulação da planilha
+
+tabela fato: tabela grande que registam fatos que aconteceram (vendas, devoluções, estoque, movimentação financeira, produção, transporte).
+tabela caracteristica (dimensão): tabela pequena que representam caracteristicas de algo (funcionarios, alunos, clientes, produtos, lojas).
